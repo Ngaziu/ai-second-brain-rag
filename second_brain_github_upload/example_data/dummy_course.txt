@@ -1,0 +1,6 @@
+Benvenuto nel corso di prova sull'Intelligenza Artificiale.
+Questo è un file di esempio per testare il RAG locale senza diffondere dati sensibili o materiale protetto da copyright.
+
+Lezione 1: I Database Vettoriali.
+Un database vettoriale (come ChromaDB) memorizza le informazioni sotto forma di embedding, ovvero vettori matematici ad alta dimensionalità. Questo permette di effettuare ricerche per similarità semantica, anziché per semplice corrispondenza esatta delle parole chiave.
+
