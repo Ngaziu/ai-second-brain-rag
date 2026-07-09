@@ -16,7 +16,7 @@ Questo repository contiene la "Fase 2" del progetto, un sistema **Retrieval-Augm
 5. **Generazione AI (Gemini)**: Utilizzo delle API di Google Gemini (`gemini-2.5-flash`) per la sintesi finale e la stesura delle risposte, con un sistema di "Fail-Fast" per gestire i Rate Limit (errore 429).
 6. **Frontend**: Un'app Web creata con Flask, dotata di UI/UX curata e responsiva per l'accesso da smartphone e LAN.
 
-## 🚀 Come testarlo (Per Recruiter)
+## 🚀 Come testarlo 
 
 > **Nota per la Sicurezza**: Il repository non contiene il mio materiale protetto da copyright né le mie chiavi API (bloccati da `.gitignore`).
 
